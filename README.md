@@ -1,2 +1,2 @@
 # Password-Checker
-Basic Password Strength Checker
+Very basic password strength checker used as C coding practice.
